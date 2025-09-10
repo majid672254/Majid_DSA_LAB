@@ -1,2 +1,2 @@
 # Majid_DSA_LAB
-hello
+This is a new line added on GitHub.
