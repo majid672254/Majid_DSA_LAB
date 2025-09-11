@@ -1,3 +1,2 @@
 # Majid_DSA_LAB
-This is a new line added on GitHub.
-
+This is a different line added locally and also updated from GitHub.
